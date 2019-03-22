@@ -8,3 +8,5 @@ tags
 test/trap
 test/break
 test/break-c++
+build
+.vscode
